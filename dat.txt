@@ -1,0 +1,1 @@
+[Contact("Mitja", "Horvat", "041399450", 1982, "mitja@hotmail.com"), Contact("Špela", "Marolt", "051856151", 1995, "spelci.marolt@gmail.com"), Contact("Mici", "Štraus", "0904444", 1945, "mici@hotmail.com"), Contact("Uršika", "Zala", "031654222", 1992, "ursika.zala@gmail.com"), Contact("Janez", "Novak", "015896085", 1975, "janez.novak@gmail.com")]
